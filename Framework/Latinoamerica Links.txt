@@ -1,0 +1,24 @@
+OPS: https://www.paho.org/es/documentos-tecnicos-ops-enfermedad-por-coronavirus-covid-19
+IDB: https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard
+Data repository: https://www.icpsr.umich.edu/web/about/cms/2365?utm_source=2020ResourcePage&utm_medium=2020ResourcePage&utm_campaign=2020ResourcePage
+CDC excess deaths USA: https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm
+
+- Guatemala:
+https://www.mspas.gob.gt/index.php/noticias/covid-19/coronavirus-2019-ncov
+https://www.mspas.gob.gt/index.php/noticias/covid-19/casos
+https://www.mspas.gob.gt/index.php/component/jdownloads/category/484-plan-coronavirus-covid-19?Itemid=-1
+
+- Ecuador:
+https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-30042020-08h00.pdf
+
+- Colombia:
+https://coronaviruscolombia.gov.co/Covid19/index.html
+https://coronaviruscolombia.gov.co/Covid19/estadisticas-covid-19/comportamiento-covid-19.html
+
+- Peru:
+https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
+
+- Uruguay:
+https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay
+https://guiad-covid.github.io/#title
+http://pasteur.uy/monitor-covid-19/index.html
