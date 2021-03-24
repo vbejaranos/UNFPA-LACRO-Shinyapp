@@ -44,6 +44,4 @@ Con esto en cuenta, se tienen los siguientes indicadores.
 
 Para el calculo del exceso se tienen las siguientes medidas de benchmark:
 * Promedio por mes de 2015-2019
-* Tendencia por mes de 2015-2019
-* Promedio de los menores al primer cuartil por mes de 2015-2019
 * Pronóstico Holt-Winters de 2020, basado en 2015-2019 
