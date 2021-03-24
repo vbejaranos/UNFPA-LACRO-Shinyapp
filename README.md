@@ -15,7 +15,7 @@ Presenta los 6 métodos utilizados para la estimación del bechmark de mortalida
 
 La propuesta de [PAHO](https://iris.paho.org/handle/10665.2/52308), que se apoya en la herramienta desarrollada por [Vital Strategies](https://preventepidemics.org/covid19/resources/excess-mortality/) ver excel al final de la página. Hacen una predicción utilizando la fórmula FORECAST.EST de EXCEL, en otras palabras el suavizado exponencial triple propuesto por **Holt-Winters**.
   
-En [Our World in Data](https://ourworldindata.org/excess-mortality-covid) se construyen una medida relativa **P-score** de la diferencia entre las defunciones observadas en 2020 y el promedio de defunciones 2015-19.
+En [Our World in Data](https://ourworldindata.org/excess-mortality-covid) se construye una medida relativa **P-score** de la diferencia entre las defunciones observadas en 2020 y el promedio de defunciones 2015-19.
 
 ## Aplicación
 
