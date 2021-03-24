@@ -26,7 +26,7 @@ Con esto en cuenta, se tienen los siguientes indicadores.
 1. Mortalidad general 2015-2020
   - Tasa cruda de mortalidad estandarizada (poblacion estandar LAC 2020)
   - Tasa especifica de mortalidad por edad y sexo
-  - Pirame de mortalidad promedio 2015-2019 contenida en 2020
+  - Piramide de mortalidad promedio 2015-2019 contenida en 2020
 2. Mortalidad COVID-19
   - Tasa de letalidad (case fatality rate)
   - Tasa cruda de mortalidad estadarizada (3 poblaciones estandar, 2020 Bolivia, Uruguay y LAC)
@@ -44,6 +44,6 @@ Con esto en cuenta, se tienen los siguientes indicadores.
 
 Para el calculo del exceso se tienen las siguientes medidas de benchmark:
 * Promedio por mes de 2015-2019
-* Tendencias por mes de 2015-2019
+* Tendencia por mes de 2015-2019
 * Promedio de los menores al primer cuartil por mes de 2015-2019
 * Pronóstico Holt-Winters de 2020, basado en 2015-2019 
