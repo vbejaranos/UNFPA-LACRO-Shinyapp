@@ -1,6 +1,6 @@
 # UNFPA-LACRO-Shinyapp
 
-Idea principal:
+Con base en:
 https://mpidr.shinyapps.io/stmortality/?fbclid=IwAR1mCAXG6YV_De5iJyDgZpRcQBqUTc6fl7A3PBGmMEoKtCwTR0wrXG1a2zQ
 
 ## Papers con los métodos a revisar para la revisión de indicadores utilizados en el análisis del exceso de mortalidad.
