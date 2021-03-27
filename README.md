@@ -5,7 +5,7 @@ https://vbejaranos.shinyapps.io/UNFPA/
 Con base en:
 https://mpidr.shinyapps.io/stmortality/?fbclid=IwAR1mCAXG6YV_De5iJyDgZpRcQBqUTc6fl7A3PBGmMEoKtCwTR0wrXG1a2zQ
 
-## Papers con los métodos a revisar para la revisión de indicadores utilizados en el análisis del exceso de mortalidad.
+## Revisión de indicadores utilizados en el análisis del exceso de mortalidad.
 An [open-sourced](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246663#sec002), web-based application to analyze weekly excess mortality based on the Short-term Mortality Fluctuations data series
 Presenta los 6 métodos utilizados para la estimación del bechmark de mortalidad utilizados en la herramienta de STMF-HDM: 
 - week-specific averages
@@ -47,3 +47,13 @@ Con esto en cuenta, se tienen los siguientes indicadores.
 Para el calculo del exceso se tienen las siguientes medidas de benchmark:
 * Promedio por mes de 2015-2019
 * Pronóstico Holt-Winters de 2020, basado en 2015-2019 
+
+## Recursos
+En el archivo *The Demographics of COVID - LACRO.pdf* se encuentran los repositorios y tableros COVID19 correspondientes de cada país,
+mientras que el archivo *Data_mapping.xlsx* contiene los repositorios correspondientes a mortalidad pre-pandemia y 2020.
+A continuación se dispone los repositorios de censos para los calculos correspondientes de las tasas.
+
+
+## Notas metodológicas
+
+
