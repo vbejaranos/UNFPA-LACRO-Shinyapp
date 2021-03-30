@@ -52,12 +52,12 @@ Para el calculo del exceso se tienen las siguientes medidas de benchmark:
 En el archivo *The Demographics of COVID - LACRO.pdf* se encuentran los repositorios y tableros COVID19 correspondientes de cada país,
 mientras que el archivo *Data_mapping.xlsx* contiene los repositorios correspondientes a mortalidad pre-pandemia y 2020.
 
-Para la población expuesta al riesgo de 2020, se utilizan los cálculos deñ [World Population Prospects 2019](https://population.un.org/wpp/Download/Standard/Population/)
+Para la población expuesta al riesgo de 2020, se utilizan los cálculos de [World Population Prospects 2019](https://population.un.org/wpp/Download/Standard/Population/)
 
 A continuación se dispone los repositorios de censos para los calculos correspondientes de las tasas a primer nivel subnacional.
 
 |Pais|Fuente|Años|
-|:--|:--:|:--:|
+|:--|:--|:--:|
 |Argentina|[Censo Poblacion,Hogares y Vivienda](https://redatam.indec.gob.ar/argbin/RpWebEngine.exe/PortalAction?BASE=CPV2010B)|2001-2010|
 |Brasil|[Censo Demográfico](https://www.ibge.gov.br/estatisticas/sociais/populacao/9662-censo-demografico-2010.html?=&t=microdados)|2000-2010|
 |Chile|[Censo Población y Vivienda](https://redatam-ine.ine.cl/redbin/RpWebEngine.exe/Portal?BASE=CENSO_2017&lang=esp)|2002-2017|
