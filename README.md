@@ -70,6 +70,6 @@ A continuación se dispone los repositorios de censos para los calculos correspo
 
 Teniendo como insumo los censos y la estimación de la población 2020 por la WPP, se hace uso del crecimiento exponencial (Wachter, K. W. (2014). Essential demographic methods. Harvard University Press) para la extrapolación de los conteos a primer nivel subnacional. Luego cada tasa está calculada por 
 
-Tasa de interés = conteo población característica de interes/conteo población expuesta al riesgo
+Tasa de interés = conteo población con característica de interes/conteo población expuesta al riesgo
 
 Los excesos están dados por conteos, excluyendo la mortalidad por causas externas debido a efectos de la cuarentena en los diferentes países. El calculo del benchmark por la metodología Holt-Winters asume un modelo aditivo y finalmente los P-scores son los usados en [Our World in Data](https://ourworldindata.org/excess-mortality-covid).
