@@ -26,11 +26,11 @@ En el caso de Latinoamérica, no se cuentan con datos públicos antes de 2020 po
 Con esto en cuenta, se tienen los siguientes indicadores.
 
 1. Mortalidad general 2015-2020
-  - Tasa cruda de mortalidad estandarizada (poblacion estandar LAC 2020)
-  - Tasa especifica de mortalidad por edad y sexo
+  - Tasa cruda de mortalidad (TCM) estandarizada (poblacion estandar LAC 2020)
+  - Tasa especifica de mortalidad (TEM) por edad y sexo
   - Piramide de mortalidad promedio 2015-2019 contenida en 2020
 2. Mortalidad COVID-19
-  - Tasa de letalidad (case fatality rate)
+  - Tasa de letalidad (case fatality rate = muertes/casos positivos)
   - Tasa cruda de mortalidad estadarizada (3 poblaciones estandar, 2020 Bolivia, Uruguay y LAC)
   - Tasa cruda de mortalidad
   - Tasa específica de mortalidad por edad y sexo
@@ -49,8 +49,7 @@ Para el calculo del exceso se tienen las siguientes medidas de benchmark:
 * Pronóstico Holt-Winters de 2020, basado en 2015-2019 
 
 ## *Recursos*
-En el archivo *The Demographics of COVID - LACRO.pdf* se encuentran los repositorios y tableros COVID19 correspondientes de cada país,
-mientras que el archivo *Data_mapping.xlsx* contiene los repositorios correspondientes a mortalidad pre-pandemia y 2020.
+En el archivo *The Demographics of COVID - LACRO.pdf* se encuentran los repositorios y tableros COVID19 correspondientes de cada país, en este caso se escogió la fecha de reporte del caso positivo. El archivo *Data_mapping.xlsx* contiene los repositorios correspondientes a mortalidad pre-pandemia y 2020.
 
 Para la población expuesta al riesgo de 2020, se utilizan los cálculos de [World Population Prospects 2019](https://population.un.org/wpp/Download/Standard/Population/)
 
@@ -69,4 +68,6 @@ A continuación se dispone los repositorios de censos para los calculos correspo
 
 ## **Notas metodológicas**
 
+Teniendo como insumo los censos y la estimación de la población 2020 por la WPP, se hace uso del crecimiento exponencial (Wachter, K. W. (2014). Essential demographic methods. Harvard University Press) para la extrapolación de los conteos a primer nivel subnacional. Luego cada tasa está calculada por 
+$$tasa de interés = \frac{conteo personas con característica de interés}{conteo población expuesta al riesgo}$$
 
